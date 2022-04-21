@@ -1,5 +1,5 @@
 # titin_PAINT
-Code used to analyze DNA-PAINT data and extract Drosophila titin epitopes position
+Code used to analyze DNA-PAINT data and extract Drosophila titin epitopes positions
 
 ## What is this about?
 
